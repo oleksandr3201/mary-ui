@@ -1,15 +1,20 @@
 {
-    "name": "robsontenorio/mary",
-    "description": "Gorgeous UI components for Livewire powered by daisyUI and Tailwind",
+    "name": "oleksandr3201/mary-ui",
+    "description": "Fork of mary UI — Livewire components powered by daisyUI and Tailwind",
     "license": "MIT",
     "authors": [
+        {
+            "name": "oleksandr3201",
+            "email": "handy.apple117@gmail.com",
+            "homepage": "https://github.com/oleksandr3201"
+        },
         {
             "name": "Robson Tenório",
             "email": "rrtenorio@gmail.com",
             "homepage": "https://github.com/robsontenorio"
         }
     ],
-    "homepage": "https://mary-ui.com",
+    "homepage": "https://github.com/oleksandr3201/mary-ui",
     "keywords": [
         "laravel",
         "livewire",
