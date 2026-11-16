@@ -1,4 +1,4 @@
-> **Fork** published as [`oleksandr3201/mary-ui`](https://github.com/oleksandr3201/mary-ui) on Packagist. Upstream: [robsontenorio/mary](https://github.com/robsontenorio/mary) · docs at [mary-ui.com](https://mary-ui.com).
+> **Fork** published as [`robsontanorio/mary-ui`](https://github.com/robsontanorio/mary-ui). Upstream: [robsontenorio/mary](https://github.com/robsontenorio/mary) · docs at [mary-ui.com](https://mary-ui.com).
 
 <p align="center"><img width="200" src="https://github.com/robsontenorio/mary-ui.com/blob/main/public/images/mary.png?raw=true"></p>
 
